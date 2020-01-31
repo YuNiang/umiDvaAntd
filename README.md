@@ -4,7 +4,7 @@
 3. 组件 [ant-d](https://ant.design/docs/react/introduce-cn)
 
 ```javascript
-  tnpm start
+  npm start
 ```
 
 ### 切记
